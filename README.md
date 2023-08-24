@@ -50,7 +50,7 @@ To win the game its necessary pick up all collectible and pass for the exit.
 ### How execute the game
 
 To start the game you need run the command `make bonus` root directory.
-This will compile the executable file `so_long_bonus`, to execute its necessary run `./so_long_bonus maps/mapbonus2.ber` or any map of your choice.
+This will compile the executable file `so_long_bonus`, to execute its necessary run `./so_long_bonus ./src/maps/mapbonus2.ber` or any map of your choice.
 
 </br>
 
@@ -72,7 +72,7 @@ This will compile the executable file `so_long_bonus`, to execute its necessary 
 
 Here is the game design:
 
-there is a counter in the upper left corner counting steps.
+There is a counter in the upper left corner counting steps.
 
 <center>
 <img src="./img/Screenshot from 2023-08-24 09-41-36.png">
