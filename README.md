@@ -40,7 +40,7 @@ In folder [maps](./maps/) have some examples of maps.
 
 ### Control of play
 
-You can use `AWSD` to move `UP`, `DOWN`, `LEFT`, `RIGHT`.  
+You can use `AWSD` and `UP`, `DOWN`, `LEFT`, `RIGHT`.  
 For restart the game press `ESC` or click on the red cross of window.
 If you touch the enemy you loose the game.
 To win the game its necessary pick up all collectible and pass for the exit.
@@ -49,19 +49,11 @@ To win the game its necessary pick up all collectible and pass for the exit.
 
 ### How execute the game
 
-To start the game you need run the command `make` root directory.
-This will compile the executable file `so_long`, to execute its necessary run `./so_long_bonus maps/map1.ber` or any map of your choice.
-
-</br>
-
-Or;
-
-</br>
-
 To start the game you need run the command `make bonus` root directory.
-This will compile the executable file `so_long_bonus`, to execute its necessary run `./so_long_bonus maps/map1.ber` or any map of your choice.
+This will compile the executable file `so_long_bonus`, to execute its necessary run `./so_long_bonus maps/mapbonus2.ber` or any map of your choice.
 
 </br>
+
 
 ## Makefile rules
 
@@ -71,21 +63,16 @@ This will compile the executable file `so_long_bonus`, to execute its necessary 
 | `make bonus` | Compile the bonus part of the program.                  |
 | `make clean` | Remove every objects of compilation                     |
 | `make fclean`| Do `clean` rule and remove the executable program       |
-| `make re`    | Do `fclean` rule and compile the program                |
+| `make re`    | Do `fclean` rule and compile the program mandatory      |
+|`make rebonus`| Do `fclean` rule and compile the program bonus          |
 
 </br>
 
 ## Sponge Bob 🧽
 
-Here on the top left corner it is visible how the game counts the score. I know how hard to see it. Anywho, I couldn't find a way to print it out bigger in Minilibx. lol
+Here is the game design:
 
-<center>
-<img src="./img/score.gif">
-</center>
-
-</br>
-
-Here I try to present how our hero dies when he touches one of the devils.
+there is a counter in the upper left corner counting steps.
 
 <center>
 <img src="./img/Screenshot from 2023-08-24 09-41-36.png">
