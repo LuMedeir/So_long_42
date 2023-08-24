@@ -1,7 +1,6 @@
 # So_long_42
-<center>
-<img src="./img/so_long.png">
-</center>
+
+<img src="./img/so_long.png" align="center">
 
 <p align="center">
 </p>
