@@ -1,9 +1,9 @@
 # So_long_42
-
+<center>
 <img src="./img/so_long.png">
+</center>
 
 <p align="center">
- <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_long-bonus.png?raw=true">
 </p>
 
 </br>
