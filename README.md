@@ -87,5 +87,5 @@ Here on the top left corner it is visible how the game counts the score. I know 
 Here I try to present how our hero dies when he touches one of the devils.
 
 <center>
-<img src="./img/dead.gif">
+<img src="./img/Screenshot from 2023-08-24 09-41-36.png">
 </center>
