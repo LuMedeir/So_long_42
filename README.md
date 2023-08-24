@@ -1,8 +1,8 @@
-# So_long_42
+# So_long_42 🎮
 
 <p align="center">
 <img src="./img/so_long.png">
-</p>p>
+</p>
 
 <p align="center">
 </p>
@@ -50,7 +50,7 @@ To win the game its necessary pick up all collectible and pass for the exit.
 ### How execute the game
 
 To start the game you need run the command `make` root directory.
-This will compile the executable file `so_long`, to execute its necessary run `./so_long maps/map1.ber` or any map of your choice.
+This will compile the executable file `so_long`, to execute its necessary run `./so_long_bonus maps/map1.ber` or any map of your choice.
 
 </br>
 
@@ -75,7 +75,7 @@ This will compile the executable file `so_long_bonus`, to execute its necessary 
 
 </br>
 
-## Trailer
+## Sponge Bob 🧽
 
 Here on the top left corner it is visible how the game counts the score. I know how hard to see it. Anywho, I couldn't find a way to print it out bigger in Minilibx. lol
 
