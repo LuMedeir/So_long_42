@@ -34,7 +34,7 @@ To play this game you can use any map of your choice as long follow the followin
 |     *P*     | Player position			 |
 |     *D*     | Enemy(Devil)  position   |
 
-In folder [maps](./maps/) have some examples of maps.
+In folder [maps](./src/maps/) have some examples of maps.
 
 </br>
 
